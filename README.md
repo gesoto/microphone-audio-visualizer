@@ -24,8 +24,3 @@ Vertex movement is adjusted to move tangentially with each counterpart, as a res
 
 ![Image of description](readme-content/description3.gif)
 
-<img src="readme-content/description2.gif" width="200" height="200" />
-
-<video width="400" controls><source src="test.mp4" type="video/mp4"></video>
-
-

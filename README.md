@@ -28,5 +28,5 @@ Vertex movement is adjusted to move tangentially with each counterpart, as a res
 
 ## Non-interactive animation
 
-I created a [non-interactive animation](https://gesoto.github.io/microphone-visualizer/reference-animation/soundviz.html) to be used as a fallback, the animation was created manually in After Effects and made available as JSON to be rendered by web technologies.
+I created a [non-interactive animation](https://gesoto.github.io/microphone-audio-visualizer/reference-animation/soundviz.html) to be used as a fallback, the animation was created manually in After Effects and made available as JSON to be rendered by web technologies.
 

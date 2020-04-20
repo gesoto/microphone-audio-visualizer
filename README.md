@@ -1,6 +1,8 @@
-# voice-feedback-visualizer
+# Microphone audio visualizer
 
-A prototype of a microphone visualizer for user input voice commands in a UI display.
+A microphone visualizer prototype for input voice commands in a UI display.
+
+I designed this prototype to showcase the visual and animation intention of a voice UI. It helped as the base design for voice interactions and to guide the developers in the desired direction.
 
 ![Image of description](readme-content/description4.gif)
 
